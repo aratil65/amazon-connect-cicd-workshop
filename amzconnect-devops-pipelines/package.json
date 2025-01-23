@@ -57,6 +57,7 @@
         "aws-regions": "^2.3.1",
         "aws-xray-sdk-core": "3.3.6",
         "cdk-nag": "^2.21.25",
+        "connect-cicd": "file:",
         "constructs": "10.1.109",
         "crypto": "^1.0.1",
         "fs-extra": "10.1.0",
